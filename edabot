@@ -13,7 +13,7 @@ from datetime import date, datetime
 from dateutil import relativedelta
 
 # ========== CONFIG (PUT YOUR KEYS HERE) ==========
-TELEGRAM_TOKEN = "8286415945:AAHX2csY4Z90BolmQwi3nITgIn75lzTs9Ls"
+TELEGRAM_TOKEN = "8294607828:AAG3uLKRDj4qUGCj8TfFUeBgrjwio30Utog"
 OPENAI_API_KEY = "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"
 
 # Model names: adjust if needed in your OpenAI account
